@@ -42,8 +42,8 @@ Display the confusion matrix, classification report, and predictions.
 
 ## PROGRAM
 
-### Name:
-### Register Number:
+### Name: S AISHWARIYA
+### Register Number:212224240005
 ```
 import torch
 import torch.nn as nn
