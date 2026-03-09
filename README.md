@@ -103,12 +103,12 @@ def train_model(model, train_loader, optimizer, criterion, num_epochs=3):
 
 ```
 ## OUTPUT
-  Training Loss per Epoch
-<img width="272" height="122" alt="image" src="https://github.com/user-attachments/assets/f05c20ca-737a-4f36-9974-7ff8fdb6eae5" />
- Confusion Matrix
-<img width="742" height="688" alt="image" src="https://github.com/user-attachments/assets/a611a7e4-b30a-4f75-bd95-397e11a71788" />
+## Training Loss per Epoch
+<img width="272" height="122" alt="image" src="https://github.com/user-attachments/assets/f05c20ca-737a-4f36-9974-7ff8fdb6eae5" /> \n
+## Confusion Matrix
+<img width="742" height="688" alt="image" src="https://github.com/user-attachments/assets/a611a7e4-b30a-4f75-bd95-397e11a71788" /> \n
 
- Classification Report
-<img width="564" height="364" alt="image" src="https://github.com/user-attachments/assets/5292edd4-9807-42e4-9a7f-02a995fba4c9" />
-  New Sample Data Prediction
- <img width="483" height="497" alt="image" src="https://github.com/user-attachments/assets/6875b7d7-7ab6-4c22-9588-a75f12d5dfb0" />
+ ## Classification Report
+<img width="564" height="364" alt="image" src="https://github.com/user-attachments/assets/5292edd4-9807-42e4-9a7f-02a995fba4c9"  /> \n
+  ## New Sample Data Prediction
+ <img width="483" height="497" alt="image" src="https://github.com/user-attachments/assets/6875b7d7-7ab6-4c22-9588-a75f12d5dfb0" />\n
