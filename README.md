@@ -94,7 +94,8 @@ def train_model(model, train_loader, num_epochs=3):
 
 ## OUTPUT
 ### Training Loss per Epoch
-![image](https://github.com/user-attachments/assets/0874d31c-000b-485e-a968-3f6c7ff9ae12)
+<img width="230" height="106" alt="image" src="https://github.com/user-attachments/assets/d0673deb-e6cd-4545-b8ea-27667d92f646" />
+
 
 ### Confusion Matrix
 <img width="749" height="693" alt="image" src="https://github.com/user-attachments/assets/871fb28c-9734-4a80-a332-302b832d8d81" />
