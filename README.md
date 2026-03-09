@@ -110,6 +110,6 @@ def train_model(model, train_loader, optimizer, criterion, num_epochs=3):
 ## Classification Report
 <img width="592" height="474" alt="image" src="https://github.com/user-attachments/assets/c1fbff1e-8a2b-476f-976c-0abc2c176c73" /> \n
 ## New Sample Data Prediction
-<img width="569" height="675" alt="image" src="https://github.com/user-attachments/assets/08185f77-02af-4a43-9fba-ab0a68daa08b" />\n
+<img width="849" height="821" alt="image" src="https://github.com/user-attachments/assets/50cc60aa-242a-4fbf-96cf-670ee96942de" />
 ## RESULT
 
