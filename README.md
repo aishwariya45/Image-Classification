@@ -112,4 +112,4 @@ def train_model(model, train_loader, num_epochs=3):
 
 
 ## RESULT
-Thus ,the experiment was executed successfully.
+Thus, We have developed a convolutional deep neural network for image classification to verify the response for new images.
